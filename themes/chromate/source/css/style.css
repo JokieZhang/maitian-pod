@@ -16,7 +16,7 @@ pre {
         box-shadow: none!important;
         background-color: #121212!important
     }
-    img:not([src*=".jpg"]) {
+    img:not([src*=".svg"]) {
         filter: brightness(.7) contrast(1.2);
     }
 }
