@@ -5,7 +5,7 @@
 # 不要忘记把 enable 改成 true 哦～
 logo:
   enable: false
-  lightmode: null
+  lightmode: https://imgse.com/i/ppubHPJ
   darkmode: null
   rss: null
 
@@ -69,8 +69,8 @@ highlight:
 # 配置格式：
 #   ['链接地址', '图标类', '图标之后的文字']
 navbar:
-  - ['mailto:chunsheng@ipodlive.com', 'fa fa-paper-plane', '']
-  - ['https://github.com/guiqiqi/chromate', 'fa fa-github', '']
+  - ['mailto:contact@ipodlive.com', 'fa fa-paper-plane', '']
+  - ['https://github.com/guiqiqi/', 'fa fa-github', '']
   - ['/feed.rss', 'fa fa-rss', '']
 
 # Subnav configuration will show below navbar with a horizontal divider
@@ -79,16 +79,16 @@ navbar:
 # Sub Navbar 将会在 Navbar 下方展示并以水平线与之分割
 # 配置模式与上面类似
 subnav:
-  - ['#love', 'fa fa-heart', 'Love']
-  - ['#peace', 'fa fa-globe', 'Peace']
-  - ['#human', 'fa fa-male', 'Human']
+  - ['#love', 'fa fa-heart', '活过']
+  - ['#peace', 'fa fa-globe', '聊过']
+  - ['#human', 'fa fa-male', '爱过']
 
 # Menubar and its texts
 # ------------------------------------------------------------
 # 菜单栏的地址和文字
 menubar:
-  - ['/about/', 'About']
-  - ['/archives/', 'Archives']
+  - ['/about/', '关于']
+  - ['/archives/', '归档']
 
 # RSS auto generation configuration
 #   enable: true or false
@@ -115,7 +115,7 @@ rss:
   enable: true
   path: '/feed.rss'
   config:
-    email: 'chunsheng@ipodlive.com'
+    email: 'contact@ipodlive.com'
     category: {
       'Chitchat': ['闲话', '生活'],
       'Discourse': ['技术']
