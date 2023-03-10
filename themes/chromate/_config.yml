@@ -5,8 +5,8 @@
 # 不要忘记把 enable 改成 true 哦～
 logo:
   enable: true
-  lightmode: https://files.catbox.moe/hhmbhq.svg
-  darkmode: https://files.catbox.moe/hhmbhq.svg
+  lightmode: https://files.catbox.moe/575i83.svg
+  darkmode: https://files.catbox.moe/575i83.svg
   rss: null
 
 # Header size
