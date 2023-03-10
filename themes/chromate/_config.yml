@@ -69,7 +69,7 @@ highlight:
 # 配置格式：
 #   ['链接地址', '图标类', '图标之后的文字']
 navbar:
-  - ['mailto:privet@utc3.live', 'fa fa-paper-plane', '']
+  - ['mailto:chunsheng@ipodlive.com', 'fa fa-paper-plane', '']
   - ['https://github.com/guiqiqi/chromate', 'fa fa-github', '']
   - ['/feed.rss', 'fa fa-rss', '']
 
@@ -115,7 +115,7 @@ rss:
   enable: true
   path: '/feed.rss'
   config:
-    email: 'chunsheng@maitian.live'
+    email: 'chunsheng@ipodlive.com'
     category: {
       'Chitchat': ['闲话', '生活'],
       'Discourse': ['技术']
