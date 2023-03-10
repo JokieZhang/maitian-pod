@@ -6,7 +6,7 @@
 logo:
   enable: true
   lightmode: https://files.catbox.moe/hhmbhq.svg
-  darkmode: null
+  darkmode: https://files.catbox.moe/hhmbhq.svg
   rss: null
 
 # Header size
