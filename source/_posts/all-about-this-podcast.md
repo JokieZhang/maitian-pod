@@ -2,7 +2,7 @@
 title: 关于这档播客【目前】的一切
 date: 2023-03-10 20:41:45
 tags: ["你好，世界！"]
-thumbnail: https://oss.utc3.live/ep1/thumbnail.webp
+thumbnail: https://imgse.com/i/ppuqSaD
 podcast:
   subtitle: 以及某些事非做不可的理由  # 你本期 EP 的子标题
   authors: ['春生', '春生的朋友J']  # 本期作者
