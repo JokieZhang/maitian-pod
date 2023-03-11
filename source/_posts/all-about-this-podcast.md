@@ -9,7 +9,7 @@ podcast:
   cover: https://s1.ax1x.com/2023/03/11/ppKn55D.md.jpg  # 网页端播放器上的图片
   duration: 64  # 时间长度
   media:
-    url: https://audionautix.com/Music/BackToTheWood.mp3  # 音频文件
+    url: https://oss.galaxera.com/And-the-winner-is.mp3  # 音频文件
     size: 1020453  # 音频文件大小（按照 Byte 计算）
     type: audio/mpeg  # 音频文件类型
   chapters:  # 本期节目章节 - 如果你想自动生成时间线 [可选的]
