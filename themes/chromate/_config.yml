@@ -81,7 +81,7 @@ navbar:
 subnav:
   - ['#love', 'fa-solid fa-calendar-days', '活过']
   - ['#peace', 'fa-solid fa-champagne-glasses', '聊过']
-  - ['#human', 'fa-solid fa-heart‘, '爱过']
+  - ['#human', 'fa-solid fa-heart', '爱过']
 
 # Menubar and its texts
 # ------------------------------------------------------------
