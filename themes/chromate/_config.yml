@@ -79,9 +79,9 @@ navbar:
 # Sub Navbar 将会在 Navbar 下方展示并以水平线与之分割
 # 配置模式与上面类似
 subnav:
-  - ['#love', 'fa fa-umbrella-beach', '活过']
-  - ['#peace', 'fa fa-glass-cheers', '聊过']
-  - ['#human', 'fa fa-heart', '爱过']
+  - ['#love', 'fa-solid fa-calendar-days', '活过']
+  - ['#peace', 'fa-solid fa-champagne-glasses', '聊过']
+  - ['#human', 'fa-solid fa-heart‘, '爱过']
 
 # Menubar and its texts
 # ------------------------------------------------------------
