@@ -5,7 +5,7 @@ tags: ["你好，世界！"]
 thumbnail: https://s1.ax1x.com/2023/03/11/ppuqSaD.jpg
 podcast:
   subtitle: 以及某些事非做不可的理由  # 你本期 EP 的子标题
-  authors: ['春生X', '春生的朋友J']  # 本期作者
+  authors: [' 春生 ', ' 春生的朋友老J ']  # 本期作者
   cover: https://s1.ax1x.com/2023/03/11/ppKn55D.md.jpg  # 网页端播放器上的图片
   duration: 64  # 时间长度
   media:

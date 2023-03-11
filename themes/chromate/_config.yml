@@ -17,8 +17,8 @@ logo:
 # 从大到小依次可以选择：["fullheight", "large", "medium", "default"]
 # 如果启用 autoscroll 在进入文章后会自动跳转至文章 Thumbnail 处
 header:
-  index: medium
-  other: default
+  index: small
+  other: small
   autoscroll: true
 
 # Favicon file link
@@ -69,7 +69,7 @@ highlight:
 # 配置格式：
 #   ['链接地址', '图标类', '图标之后的文字']
 navbar:
-  - ['mailto:contact@ipodlive.com', 'fa fa-paper-plane', '']
+  - ['mailto:himaitian@ipodlive.com', 'fa fa-paper-plane', '']
   - ['https://github.com/guiqiqi/', 'fa fa-github', '']
   - ['/feed.rss', 'fa fa-rss', '']
 
@@ -79,9 +79,9 @@ navbar:
 # Sub Navbar 将会在 Navbar 下方展示并以水平线与之分割
 # 配置模式与上面类似
 subnav:
-  - ['#love', 'fa fa-heart', '活过']
-  - ['#peace', 'fa fa-globe', '聊过']
-  - ['#human', 'fa fa-male', '爱过']
+  - ['#love', 'fa fa-umbrella-beach', '活过']
+  - ['#peace', 'fa fa-glass-cheers', '聊过']
+  - ['#human', 'fa fa-heart', '爱过']
 
 # Menubar and its texts
 # ------------------------------------------------------------
@@ -115,7 +115,7 @@ rss:
   enable: true
   path: '/feed.rss'
   config:
-    email: 'contact@ipodlive.com'
+    email: 'himaitian@ipodlive.com'
     category: {
       'Chitchat': ['闲话', '生活'],
       'Discourse': ['技术']
