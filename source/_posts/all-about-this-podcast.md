@@ -26,9 +26,9 @@ podcast:
     - ['活过，聊过，爱过以及闲聊的意义', 565]
     - ['热爱抵岁月漫长', 645]
   references:  # 本期节目引用信息 - 如果你想自动生成引用信息模块 [可选的]
-    - ['Post Thumbnail', 'https://pixabay.com/zh/illustrations/sunrise-ocean-ship-sun-sunset-5863751/']
-    - ['Podcast Cover', 'https://pixabay.com/get/g1a2a0f01eb35c5052436e443bd258c1126eb659a475bd7895598634c05ba1897d785a109db502bd40c4855e34cbbafbd.jpg']
-    - ['Back To The Woods', 'https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3']
+    - ['封面大图', 'https://pixabay.com/zh/illustrations/sunrise-ocean-ship-sun-sunset-5863751/']
+    - ['封面小图', 'https://pixabay.com/get/g1a2a0f01eb35c5052436e443bd258c1126eb659a475bd7895598634c05ba1897d785a109db502bd40c4855e34cbbafbd.jpg']
+    - ['背景音乐', 'https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3']
 ---
 **《春生会客厅》第一期**
 <!--more-->
