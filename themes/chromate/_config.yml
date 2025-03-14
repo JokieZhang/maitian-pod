@@ -68,10 +68,10 @@ highlight:
 # 你可以去 Font Awesome 5 上面选一些好看的图标
 # 配置格式：
 #   ['链接地址', '图标类', '图标之后的文字']
-navbar:
-  - ['mailto:himaitian@ipodlive.com', 'fa fa-paper-plane', '邮件']
-  - ['https://github.com/guiqiqi/', 'fa fa-github', 'github']
-  - ['/feed.rss', 'fa fa-rss', 'RSS']
+navbar: null
+  #  - ['mailto:himaitian@ipodlive.com', 'fa fa-paper-plane', '邮件']
+  #- ['https://github.com/guiqiqi/', 'fa fa-github', 'github']
+  #- ['/feed.rss', 'fa fa-rss', 'RSS']
 
 # Subnav configuration will show below navbar with a horizontal divider
 # Configuration format as same as previous
