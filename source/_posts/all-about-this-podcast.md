@@ -2,11 +2,11 @@
 title: 当我谈论播客时我想谈什么
 date: 2023-03-12 20:41:45
 tags: ["你好，世界！","当我谈论播客时我想谈什么"]
-thumbnail: https://s1.ax1x.com/2023/03/11/ppuqSaD.jpg
+thumbnail: https://oss.ipodlive.com/ep01-th.jpg
 podcast:
   subtitle: 以及某些事非做不可的理由  # 你本期 EP 的子标题
   authors: [' 春生 ']  # 本期作者
-  cover: https://s1.ax1x.com/2023/03/11/ppKn55D.md.jpg  # 网页端播放器上的图片
+  cover: https://oss.ipodlive.com/ep01-small.jpg  # 网页端播放器上的图片
   duration: 64  # 时间长度
   media:
     url: https://oss.ipodlive.com/ep01.mp3  # 音频文件

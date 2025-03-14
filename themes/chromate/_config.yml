@@ -5,8 +5,8 @@
 # 不要忘记把 enable 改成 true 哦～
 logo:
   enable: true
-  lightmode: https://s1.ax1x.com/2023/03/11/ppKnhVK.png
-  darkmode: https://s1.ax1x.com/2023/03/11/ppKnhVK.png
+  lightmode: https://oss.ipodlive.com/ppKnhVK.png
+  darkmode: https://oss.ipodlive.com/ppKnhVK.png
   rss: null
 
 # Header size
